@@ -2,8 +2,8 @@
 
 ## TL;DR
 - There is pent-up demand from analytical, non-software professionals who feel AI is happening *to* them. They want context, credible methods, and peers who care about rigor more than hustle culture.
-- Six segments stand out: (1) translational researchers in regulated industries, (2) evidence-minded clinical/health ops specialists, (3) public-sector and civic analysts, (4) industrial & climate modelers, (5) science communicators/educators, and (6) boutique research consultancies that need AI literacy to stay billable.
-- Best short-term fit: translational researchers and boutique consultancies—they already budget for professional education, have identifiable communities, and feel acute pressure to sound intelligent about AI in front of boardrooms.
+- Seven segments stand out: (1) translational researchers in regulated industries, (2) evidence-minded clinical/health ops specialists, (3) public-sector and civic analysts, (4) industrial & climate modelers, (5) science communicators/educators, (6) boutique research consultancies that need AI literacy to stay billable, and (7) hands-on experimentalists who want sandboxed simulations without DevOps pain.
+- Best short-term fit: translational researchers, boutique consultancies, and hands-on experimentalists—they already budget for professional education, have identifiable communities, and feel acute pressure to sound intelligent about AI in front of boardrooms.
 
 ## Segment Deep Dives
 
@@ -69,6 +69,17 @@
   - Reforge, Section, and On Deck’s AI tracks speak to operators but lean toward growth/product, not research consultancies.
 - **My take:** Bundle curriculum with reusable deliverables (AI research brief templates, audit checklists) so they can resell value day one.
 
+### 7. Hands-on experimentalists & hypothesis-driven builders
+- **Profile:** Science-minded tinkerers (founders, staff scientists, innovation fellows) who constantly dream up AI experiments but get bogged down in DevOps, eval harnesses, or compliance reviews.
+- **Jobs-to-be-done:** Launch sandboxed simulations fast, observe agent behavior like a lab experiment, tweak variables mid-run, and co-analyze the results with AI-generated briefs.
+- **Tradeoffs / fit:**
+  - Pros: Become loud champions if the tooling feels magical; generate public demos, case studies, and product feedback loops.
+  - Cons: Infra costs spike because they run many iterations; expectations for reliability + observability are sky-high, so half-baked UX backfires.
+- **Competitors:**
+  - LangSmith/Weights & Biases/Instrument-based monitors give telemetry but still demand custom wiring.
+  - Replit Agents, CrewAI sandboxes, and AutoGPT labs appeal to builders yet lack the scientific rigor + transparency this crowd needs.
+- **My take:** Offer a “Simulation Launchpad” track: curated templates (literature triage, multi-agent negotiation, protocol drafting), pre-provisioned sandboxes with cost guardrails, experiment timelines, and AI-written after-action reports so humans can stay in an observational/analytical posture.
+
 ## Cross-cutting Insights
 1. **Skill expectations focus on prompt engineering + critical thinking, not hardcore coding.** Skillsoft’s 2025 skills report highlights prompt engineering, data fluency, and ethics as top competencies for broad audiences, reinforcing that we can de-emphasize math theatrics without losing credibility.[1]
 2. **Non-technical AI career paths are exploding** (prompt engineers, AI ethicists, AI product PMs), which validates messaging that science-minded people can enter without CS degrees.[2]
@@ -82,10 +93,11 @@
 ## My Opinionated Rankings (highest leverage first)
 1. **Translational researchers (Score: 9/10)** – Already science literate, budgets exist, urgent pressure to respond to AI without losing FDA/regulatory trust.
 2. **Boutique consultancies (8/10)** – Pay for speed + frameworks; easy to co-create thought leadership.
-3. **Clinical ops leaders (7/10)** – High governance need but longer sales cycles.
-4. **Civic/policy analysts (6/10)** – Great mission fit; moderate revenue.
-5. **Industrial/climate modelers (6/10)** – Technically demanding but differentiating if we can secure credible advisors.
-6. **Science communicators (5/10)** – Keep for amplification, not core revenue.
+3. **Hands-on experimentalists (8/10)** – Huge evangelists if we nail the launchpad UX; also a proving ground for internal tooling before rolling it to other cohorts.
+4. **Clinical ops leaders (7/10)** – High governance need but longer sales cycles.
+5. **Civic/policy analysts (6/10)** – Great mission fit; moderate revenue.
+6. **Industrial/climate modelers (6/10)** – Technically demanding but differentiating if we can secure credible advisors.
+7. **Science communicators (5/10)** – Keep for amplification, not core revenue.
 
 ## References
 [1] Skillsoft, “Top In Demand AI Skills (2025).” Retrieved 2026-03-27.
